@@ -91,7 +91,7 @@ class UserController extends Controller
     {
         $sign = $_GET['sign'];
 //        $sign = 'asdsadsadasdsad';
-        //字典排序11
+        //字典排序
         $data = $_GET['data'];
         print_r($_GET);
 
